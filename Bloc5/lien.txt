@@ -1,0 +1,8 @@
+lien api
+https://nath13huggingface-getaround-api.hf.space/docs
+
+lien api/hf
+https://huggingface.co/spaces/nath13huggingface/getaround_api
+
+lien streamlit/hf
+https://huggingface.co/spaces/nath13huggingface/getaroundv2
