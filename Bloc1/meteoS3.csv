@@ -1,0 +1,351 @@
+﻿nom_ville,latitude,longitude,date,periode_journee,condition_meteo,temperature,id_ville,id_meteo
+Huisnes-sur-Mer,48.6359541,-1.51146,2025-10-01,Matin,couvert,15,1,1
+Huisnes-sur-Mer,48.6359541,-1.51146,2025-10-01,Après-midi,couvert,18,1,2
+Huisnes-sur-Mer,48.6359541,-1.51146,2025-10-02,Matin,couvert,16,1,3
+Huisnes-sur-Mer,48.6359541,-1.51146,2025-10-02,Après-midi,couvert,21,1,4
+Huisnes-sur-Mer,48.6359541,-1.51146,2025-10-03,Matin,légère pluie,17,1,5
+Huisnes-sur-Mer,48.6359541,-1.51146,2025-10-03,Après-midi,légère pluie,18,1,6
+Huisnes-sur-Mer,48.6359541,-1.51146,2025-10-04,Matin,légère pluie,18,1,7
+Huisnes-sur-Mer,48.6359541,-1.51146,2025-10-04,Après-midi,légère pluie,15,1,8
+Huisnes-sur-Mer,48.6359541,-1.51146,2025-10-05,Matin,couvert,14,1,9
+Huisnes-sur-Mer,48.6359541,-1.51146,2025-10-05,Après-midi,couvert,16,1,10
+St-Malo,48.649518,-2.0260409,2025-10-01,Matin,ciel dégagé,13,2,11
+St-Malo,48.649518,-2.0260409,2025-10-01,Après-midi,partiellement nuageux,17,2,12
+St-Malo,48.649518,-2.0260409,2025-10-02,Matin,couvert,16,2,13
+St-Malo,48.649518,-2.0260409,2025-10-02,Après-midi,couvert,20,2,14
+St-Malo,48.649518,-2.0260409,2025-10-03,Matin,légère pluie,17,2,15
+St-Malo,48.649518,-2.0260409,2025-10-03,Après-midi,légère pluie,18,2,16
+St-Malo,48.649518,-2.0260409,2025-10-04,Matin,légère pluie,19,2,17
+St-Malo,48.649518,-2.0260409,2025-10-04,Après-midi,légère pluie,15,2,18
+St-Malo,48.649518,-2.0260409,2025-10-05,Matin,couvert,15,2,19
+St-Malo,48.649518,-2.0260409,2025-10-05,Après-midi,couvert,16,2,20
+Bayeux,49.2764624,-0.7024738,2025-10-01,Matin,couvert,12,3,21
+Bayeux,49.2764624,-0.7024738,2025-10-01,Après-midi,couvert,16,3,22
+Bayeux,49.2764624,-0.7024738,2025-10-02,Matin,couvert,17,3,23
+Bayeux,49.2764624,-0.7024738,2025-10-02,Après-midi,couvert,21,3,24
+Bayeux,49.2764624,-0.7024738,2025-10-03,Matin,couvert,16,3,25
+Bayeux,49.2764624,-0.7024738,2025-10-03,Après-midi,légère pluie,16,3,26
+Bayeux,49.2764624,-0.7024738,2025-10-04,Matin,couvert,18,3,27
+Bayeux,49.2764624,-0.7024738,2025-10-04,Après-midi,légère pluie,13,3,28
+Bayeux,49.2764624,-0.7024738,2025-10-05,Matin,couvert,14,3,29
+Bayeux,49.2764624,-0.7024738,2025-10-05,Après-midi,couvert,17,3,30
+Le Havre,49.4938975,0.1079732,2025-10-01,Matin,ciel dégagé,13,4,31
+Le Havre,49.4938975,0.1079732,2025-10-01,Après-midi,nuageux,15,4,32
+Le Havre,49.4938975,0.1079732,2025-10-02,Matin,couvert,15,4,33
+Le Havre,49.4938975,0.1079732,2025-10-02,Après-midi,couvert,20,4,34
+Le Havre,49.4938975,0.1079732,2025-10-03,Matin,légère pluie,16,4,35
+Le Havre,49.4938975,0.1079732,2025-10-03,Après-midi,légère pluie,17,4,36
+Le Havre,49.4938975,0.1079732,2025-10-04,Matin,légère pluie,18,4,37
+Le Havre,49.4938975,0.1079732,2025-10-04,Après-midi,pluie modérée,15,4,38
+Le Havre,49.4938975,0.1079732,2025-10-05,Matin,couvert,15,4,39
+Le Havre,49.4938975,0.1079732,2025-10-05,Après-midi,couvert,15,4,40
+Rouen,49.4404591,1.0939658,2025-10-01,Matin,ciel dégagé,14,5,41
+Rouen,49.4404591,1.0939658,2025-10-01,Après-midi,nuageux,17,5,42
+Rouen,49.4404591,1.0939658,2025-10-02,Matin,couvert,16,5,43
+Rouen,49.4404591,1.0939658,2025-10-02,Après-midi,couvert,20,5,44
+Rouen,49.4404591,1.0939658,2025-10-03,Matin,légère pluie,14,5,45
+Rouen,49.4404591,1.0939658,2025-10-03,Après-midi,légère pluie,17,5,46
+Rouen,49.4404591,1.0939658,2025-10-04,Matin,couvert,19,5,47
+Rouen,49.4404591,1.0939658,2025-10-04,Après-midi,légère pluie,14,5,48
+Rouen,49.4404591,1.0939658,2025-10-05,Matin,couvert,13,5,49
+Rouen,49.4404591,1.0939658,2025-10-05,Après-midi,couvert,17,5,50
+Paris,48.8534951,2.3483915,2025-10-01,Matin,ciel dégagé,12,6,51
+Paris,48.8534951,2.3483915,2025-10-01,Après-midi,nuageux,17,6,52
+Paris,48.8534951,2.3483915,2025-10-02,Matin,couvert,16,6,53
+Paris,48.8534951,2.3483915,2025-10-02,Après-midi,couvert,19,6,54
+Paris,48.8534951,2.3483915,2025-10-03,Matin,couvert,15,6,55
+Paris,48.8534951,2.3483915,2025-10-03,Après-midi,légère pluie,15,6,56
+Paris,48.8534951,2.3483915,2025-10-04,Matin,couvert,18,6,57
+Paris,48.8534951,2.3483915,2025-10-04,Après-midi,légère pluie,19,6,58
+Paris,48.8534951,2.3483915,2025-10-05,Matin,nuageux,13,6,59
+Paris,48.8534951,2.3483915,2025-10-05,Après-midi,couvert,17,6,60
+Amiens,49.8941708,2.2956951,2025-10-01,Matin,peu nuageux,12,7,61
+Amiens,49.8941708,2.2956951,2025-10-01,Après-midi,nuageux,17,7,62
+Amiens,49.8941708,2.2956951,2025-10-02,Matin,couvert,16,7,63
+Amiens,49.8941708,2.2956951,2025-10-02,Après-midi,couvert,19,7,64
+Amiens,49.8941708,2.2956951,2025-10-03,Matin,légère pluie,12,7,65
+Amiens,49.8941708,2.2956951,2025-10-03,Après-midi,couvert,14,7,66
+Amiens,49.8941708,2.2956951,2025-10-04,Matin,couvert,19,7,67
+Amiens,49.8941708,2.2956951,2025-10-04,Après-midi,légère pluie,14,7,68
+Amiens,49.8941708,2.2956951,2025-10-05,Matin,ciel dégagé,14,7,69
+Amiens,49.8941708,2.2956951,2025-10-05,Après-midi,couvert,16,7,70
+Lille,50.6365654,3.0635282,2025-10-01,Matin,couvert,10,8,71
+Lille,50.6365654,3.0635282,2025-10-01,Après-midi,couvert,16,8,72
+Lille,50.6365654,3.0635282,2025-10-02,Matin,couvert,15,8,73
+Lille,50.6365654,3.0635282,2025-10-02,Après-midi,couvert,19,8,74
+Lille,50.6365654,3.0635282,2025-10-03,Matin,légère pluie,12,8,75
+Lille,50.6365654,3.0635282,2025-10-03,Après-midi,couvert,14,8,76
+Lille,50.6365654,3.0635282,2025-10-04,Matin,légère pluie,18,8,77
+Lille,50.6365654,3.0635282,2025-10-04,Après-midi,légère pluie,13,8,78
+Lille,50.6365654,3.0635282,2025-10-05,Matin,ciel dégagé,13,8,79
+Lille,50.6365654,3.0635282,2025-10-05,Après-midi,ciel dégagé,17,8,80
+Arrondissement de Strasbourg,48.584614,7.7507127,2025-10-01,Matin,couvert,10,9,81
+Arrondissement de Strasbourg,48.584614,7.7507127,2025-10-01,Après-midi,couvert,14,9,82
+Arrondissement de Strasbourg,48.584614,7.7507127,2025-10-02,Matin,ciel dégagé,11,9,83
+Arrondissement de Strasbourg,48.584614,7.7507127,2025-10-02,Après-midi,couvert,16,9,84
+Arrondissement de Strasbourg,48.584614,7.7507127,2025-10-03,Matin,couvert,9,9,85
+Arrondissement de Strasbourg,48.584614,7.7507127,2025-10-03,Après-midi,couvert,11,9,86
+Arrondissement de Strasbourg,48.584614,7.7507127,2025-10-04,Matin,couvert,12,9,87
+Arrondissement de Strasbourg,48.584614,7.7507127,2025-10-04,Après-midi,couvert,17,9,88
+Arrondissement de Strasbourg,48.584614,7.7507127,2025-10-05,Matin,ciel dégagé,12,9,89
+Arrondissement de Strasbourg,48.584614,7.7507127,2025-10-05,Après-midi,ciel dégagé,16,9,90
+Saint-Hippolyte,48.2494107,7.3443202,2025-10-01,Matin,couvert,7,10,91
+Saint-Hippolyte,48.2494107,7.3443202,2025-10-01,Après-midi,nuageux,11,10,92
+Saint-Hippolyte,48.2494107,7.3443202,2025-10-02,Matin,ciel dégagé,9,10,93
+Saint-Hippolyte,48.2494107,7.3443202,2025-10-02,Après-midi,couvert,12,10,94
+Saint-Hippolyte,48.2494107,7.3443202,2025-10-03,Matin,couvert,8,10,95
+Saint-Hippolyte,48.2494107,7.3443202,2025-10-03,Après-midi,légère pluie,7,10,96
+Saint-Hippolyte,48.2494107,7.3443202,2025-10-04,Matin,couvert,10,10,97
+Saint-Hippolyte,48.2494107,7.3443202,2025-10-04,Après-midi,couvert,15,10,98
+Saint-Hippolyte,48.2494107,7.3443202,2025-10-05,Matin,ciel dégagé,10,10,99
+Saint-Hippolyte,48.2494107,7.3443202,2025-10-05,Après-midi,ciel dégagé,14,10,100
+Colmar,48.0777517,7.3579641,2025-10-01,Matin,couvert,10,11,101
+Colmar,48.0777517,7.3579641,2025-10-01,Après-midi,nuageux,14,11,102
+Colmar,48.0777517,7.3579641,2025-10-02,Matin,ciel dégagé,11,11,103
+Colmar,48.0777517,7.3579641,2025-10-02,Après-midi,couvert,15,11,104
+Colmar,48.0777517,7.3579641,2025-10-03,Matin,couvert,10,11,105
+Colmar,48.0777517,7.3579641,2025-10-03,Après-midi,couvert,10,11,106
+Colmar,48.0777517,7.3579641,2025-10-04,Matin,couvert,13,11,107
+Colmar,48.0777517,7.3579641,2025-10-04,Après-midi,nuageux,17,11,108
+Colmar,48.0777517,7.3579641,2025-10-05,Matin,ciel dégagé,13,11,109
+Colmar,48.0777517,7.3579641,2025-10-05,Après-midi,ciel dégagé,16,11,110
+Eguisheim,48.0447968,7.3079618,2025-10-01,Matin,couvert,10,12,111
+Eguisheim,48.0447968,7.3079618,2025-10-01,Après-midi,nuageux,14,12,112
+Eguisheim,48.0447968,7.3079618,2025-10-02,Matin,ciel dégagé,11,12,113
+Eguisheim,48.0447968,7.3079618,2025-10-02,Après-midi,couvert,14,12,114
+Eguisheim,48.0447968,7.3079618,2025-10-03,Matin,couvert,10,12,115
+Eguisheim,48.0447968,7.3079618,2025-10-03,Après-midi,légère pluie,10,12,116
+Eguisheim,48.0447968,7.3079618,2025-10-04,Matin,couvert,12,12,117
+Eguisheim,48.0447968,7.3079618,2025-10-04,Après-midi,nuageux,16,12,118
+Eguisheim,48.0447968,7.3079618,2025-10-05,Matin,ciel dégagé,13,12,119
+Eguisheim,48.0447968,7.3079618,2025-10-05,Après-midi,ciel dégagé,15,12,120
+Besançon,47.2380222,6.0243622,2025-10-01,Matin,ciel dégagé,9,13,121
+Besançon,47.2380222,6.0243622,2025-10-01,Après-midi,ciel dégagé,14,13,122
+Besançon,47.2380222,6.0243622,2025-10-02,Matin,ciel dégagé,12,13,123
+Besançon,47.2380222,6.0243622,2025-10-02,Après-midi,couvert,15,13,124
+Besançon,47.2380222,6.0243622,2025-10-03,Matin,légère pluie,11,13,125
+Besançon,47.2380222,6.0243622,2025-10-03,Après-midi,couvert,12,13,126
+Besançon,47.2380222,6.0243622,2025-10-04,Matin,couvert,12,13,127
+Besançon,47.2380222,6.0243622,2025-10-04,Après-midi,couvert,17,13,128
+Besançon,47.2380222,6.0243622,2025-10-05,Matin,ciel dégagé,11,13,129
+Besançon,47.2380222,6.0243622,2025-10-05,Après-midi,couvert,15,13,130
+Larrey,47.3215806,5.0414701,2025-10-01,Matin,ciel dégagé,11,14,131
+Larrey,47.3215806,5.0414701,2025-10-01,Après-midi,ciel dégagé,15,14,132
+Larrey,47.3215806,5.0414701,2025-10-02,Matin,peu nuageux,11,14,133
+Larrey,47.3215806,5.0414701,2025-10-02,Après-midi,nuageux,15,14,134
+Larrey,47.3215806,5.0414701,2025-10-03,Matin,couvert,12,14,135
+Larrey,47.3215806,5.0414701,2025-10-03,Après-midi,couvert,12,14,136
+Larrey,47.3215806,5.0414701,2025-10-04,Matin,couvert,13,14,137
+Larrey,47.3215806,5.0414701,2025-10-04,Après-midi,couvert,16,14,138
+Larrey,47.3215806,5.0414701,2025-10-05,Matin,partiellement nuageux,12,14,139
+Larrey,47.3215806,5.0414701,2025-10-05,Après-midi,couvert,15,14,140
+Annecy,45.8992348,6.1288847,2025-10-01,Matin,couvert,12,15,141
+Annecy,45.8992348,6.1288847,2025-10-01,Après-midi,partiellement nuageux,15,15,142
+Annecy,45.8992348,6.1288847,2025-10-02,Matin,peu nuageux,10,15,143
+Annecy,45.8992348,6.1288847,2025-10-02,Après-midi,nuageux,14,15,144
+Annecy,45.8992348,6.1288847,2025-10-03,Matin,couvert,12,15,145
+Annecy,45.8992348,6.1288847,2025-10-03,Après-midi,légère pluie,13,15,146
+Annecy,45.8992348,6.1288847,2025-10-04,Matin,couvert,13,15,147
+Annecy,45.8992348,6.1288847,2025-10-04,Après-midi,nuageux,17,15,148
+Annecy,45.8992348,6.1288847,2025-10-05,Matin,légère pluie,13,15,149
+Annecy,45.8992348,6.1288847,2025-10-05,Après-midi,couvert,14,15,150
+Grenoble,45.1875602,5.7357819,2025-10-01,Matin,couvert,14,16,151
+Grenoble,45.1875602,5.7357819,2025-10-01,Après-midi,nuageux,17,16,152
+Grenoble,45.1875602,5.7357819,2025-10-02,Matin,ciel dégagé,14,16,153
+Grenoble,45.1875602,5.7357819,2025-10-02,Après-midi,partiellement nuageux,17,16,154
+Grenoble,45.1875602,5.7357819,2025-10-03,Matin,couvert,15,16,155
+Grenoble,45.1875602,5.7357819,2025-10-03,Après-midi,couvert,17,16,156
+Grenoble,45.1875602,5.7357819,2025-10-04,Matin,couvert,14,16,157
+Grenoble,45.1875602,5.7357819,2025-10-04,Après-midi,couvert,20,16,158
+Grenoble,45.1875602,5.7357819,2025-10-05,Matin,couvert,14,16,159
+Grenoble,45.1875602,5.7357819,2025-10-05,Après-midi,couvert,14,16,160
+Vieux Lyon,45.7578137,4.8320114,2025-10-01,Matin,couvert,12,17,161
+Vieux Lyon,45.7578137,4.8320114,2025-10-01,Après-midi,partiellement nuageux,15,17,162
+Vieux Lyon,45.7578137,4.8320114,2025-10-02,Matin,ciel dégagé,12,17,163
+Vieux Lyon,45.7578137,4.8320114,2025-10-02,Après-midi,partiellement nuageux,17,17,164
+Vieux Lyon,45.7578137,4.8320114,2025-10-03,Matin,couvert,13,17,165
+Vieux Lyon,45.7578137,4.8320114,2025-10-03,Après-midi,couvert,16,17,166
+Vieux Lyon,45.7578137,4.8320114,2025-10-04,Matin,couvert,14,17,167
+Vieux Lyon,45.7578137,4.8320114,2025-10-04,Après-midi,nuageux,19,17,168
+Vieux Lyon,45.7578137,4.8320114,2025-10-05,Matin,nuageux,14,17,169
+Vieux Lyon,45.7578137,4.8320114,2025-10-05,Après-midi,nuageux,17,17,170
+Bauduen,43.7496562,6.3285616,2025-10-01,Matin,ciel dégagé,12,18,171
+Bauduen,43.7496562,6.3285616,2025-10-01,Après-midi,légère pluie,13,18,172
+Bauduen,43.7496562,6.3285616,2025-10-02,Matin,légère pluie,12,18,173
+Bauduen,43.7496562,6.3285616,2025-10-02,Après-midi,légère pluie,11,18,174
+Bauduen,43.7496562,6.3285616,2025-10-03,Matin,couvert,11,18,175
+Bauduen,43.7496562,6.3285616,2025-10-03,Après-midi,couvert,14,18,176
+Bauduen,43.7496562,6.3285616,2025-10-04,Matin,couvert,13,18,177
+Bauduen,43.7496562,6.3285616,2025-10-04,Après-midi,couvert,15,18,178
+Bauduen,43.7496562,6.3285616,2025-10-05,Matin,partiellement nuageux,16,18,179
+Bauduen,43.7496562,6.3285616,2025-10-05,Après-midi,couvert,15,18,180
+Bormes-les-Mimosas,43.1506968,6.3419285,2025-10-01,Matin,ciel dégagé,19,19,181
+Bormes-les-Mimosas,43.1506968,6.3419285,2025-10-01,Après-midi,peu nuageux,19,19,182
+Bormes-les-Mimosas,43.1506968,6.3419285,2025-10-02,Matin,légère pluie,16,19,183
+Bormes-les-Mimosas,43.1506968,6.3419285,2025-10-02,Après-midi,légère pluie,16,19,184
+Bormes-les-Mimosas,43.1506968,6.3419285,2025-10-03,Matin,couvert,17,19,185
+Bormes-les-Mimosas,43.1506968,6.3419285,2025-10-03,Après-midi,couvert,19,19,186
+Bormes-les-Mimosas,43.1506968,6.3419285,2025-10-04,Matin,couvert,17,19,187
+Bormes-les-Mimosas,43.1506968,6.3419285,2025-10-04,Après-midi,partiellement nuageux,19,19,188
+Bormes-les-Mimosas,43.1506968,6.3419285,2025-10-05,Matin,peu nuageux,19,19,189
+Bormes-les-Mimosas,43.1506968,6.3419285,2025-10-05,Après-midi,nuageux,20,19,190
+Cassis,43.2140359,5.5396318,2025-10-01,Matin,ciel dégagé,20,20,191
+Cassis,43.2140359,5.5396318,2025-10-01,Après-midi,ciel dégagé,21,20,192
+Cassis,43.2140359,5.5396318,2025-10-02,Matin,légère pluie,17,20,193
+Cassis,43.2140359,5.5396318,2025-10-02,Après-midi,légère pluie,18,20,194
+Cassis,43.2140359,5.5396318,2025-10-03,Matin,couvert,18,20,195
+Cassis,43.2140359,5.5396318,2025-10-03,Après-midi,couvert,19,20,196
+Cassis,43.2140359,5.5396318,2025-10-04,Matin,partiellement nuageux,18,20,197
+Cassis,43.2140359,5.5396318,2025-10-04,Après-midi,nuageux,18,20,198
+Cassis,43.2140359,5.5396318,2025-10-05,Matin,ciel dégagé,21,20,199
+Cassis,43.2140359,5.5396318,2025-10-05,Après-midi,peu nuageux,22,20,200
+Marseille,43.2961743,5.3699525,2025-10-01,Matin,ciel dégagé,15,21,201
+Marseille,43.2961743,5.3699525,2025-10-01,Après-midi,ciel dégagé,20,21,202
+Marseille,43.2961743,5.3699525,2025-10-02,Matin,légère pluie,18,21,203
+Marseille,43.2961743,5.3699525,2025-10-02,Après-midi,légère pluie,19,21,204
+Marseille,43.2961743,5.3699525,2025-10-03,Matin,couvert,19,21,205
+Marseille,43.2961743,5.3699525,2025-10-03,Après-midi,couvert,20,21,206
+Marseille,43.2961743,5.3699525,2025-10-04,Matin,nuageux,19,21,207
+Marseille,43.2961743,5.3699525,2025-10-04,Après-midi,nuageux,20,21,208
+Marseille,43.2961743,5.3699525,2025-10-05,Matin,ciel dégagé,21,21,209
+Marseille,43.2961743,5.3699525,2025-10-05,Après-midi,peu nuageux,23,21,210
+Aix-en-Provence,43.5298424,5.4474738,2025-10-01,Matin,ciel dégagé,15,22,211
+Aix-en-Provence,43.5298424,5.4474738,2025-10-01,Après-midi,ciel dégagé,19,22,212
+Aix-en-Provence,43.5298424,5.4474738,2025-10-02,Matin,légère pluie,17,22,213
+Aix-en-Provence,43.5298424,5.4474738,2025-10-02,Après-midi,légère pluie,18,22,214
+Aix-en-Provence,43.5298424,5.4474738,2025-10-03,Matin,couvert,17,22,215
+Aix-en-Provence,43.5298424,5.4474738,2025-10-03,Après-midi,couvert,20,22,216
+Aix-en-Provence,43.5298424,5.4474738,2025-10-04,Matin,nuageux,18,22,217
+Aix-en-Provence,43.5298424,5.4474738,2025-10-04,Après-midi,nuageux,21,22,218
+Aix-en-Provence,43.5298424,5.4474738,2025-10-05,Matin,ciel dégagé,20,22,219
+Aix-en-Provence,43.5298424,5.4474738,2025-10-05,Après-midi,partiellement nuageux,23,22,220
+Avignon,43.9492493,4.8059012,2025-10-01,Matin,ciel dégagé,16,23,221
+Avignon,43.9492493,4.8059012,2025-10-01,Après-midi,ciel dégagé,20,23,222
+Avignon,43.9492493,4.8059012,2025-10-02,Matin,partiellement nuageux,16,23,223
+Avignon,43.9492493,4.8059012,2025-10-02,Après-midi,partiellement nuageux,21,23,224
+Avignon,43.9492493,4.8059012,2025-10-03,Matin,couvert,16,23,225
+Avignon,43.9492493,4.8059012,2025-10-03,Après-midi,couvert,21,23,226
+Avignon,43.9492493,4.8059012,2025-10-04,Matin,couvert,20,23,227
+Avignon,43.9492493,4.8059012,2025-10-04,Après-midi,nuageux,24,23,228
+Avignon,43.9492493,4.8059012,2025-10-05,Matin,ciel dégagé,19,23,229
+Avignon,43.9492493,4.8059012,2025-10-05,Après-midi,nuageux,20,23,230
+Uzès,44.0121279,4.4196718,2025-10-01,Matin,ciel dégagé,16,24,231
+Uzès,44.0121279,4.4196718,2025-10-01,Après-midi,ciel dégagé,19,24,232
+Uzès,44.0121279,4.4196718,2025-10-02,Matin,ciel dégagé,17,24,233
+Uzès,44.0121279,4.4196718,2025-10-02,Après-midi,peu nuageux,21,24,234
+Uzès,44.0121279,4.4196718,2025-10-03,Matin,couvert,16,24,235
+Uzès,44.0121279,4.4196718,2025-10-03,Après-midi,couvert,21,24,236
+Uzès,44.0121279,4.4196718,2025-10-04,Matin,couvert,19,24,237
+Uzès,44.0121279,4.4196718,2025-10-04,Après-midi,nuageux,24,24,238
+Uzès,44.0121279,4.4196718,2025-10-05,Matin,partiellement nuageux,20,24,239
+Uzès,44.0121279,4.4196718,2025-10-05,Après-midi,nuageux,21,24,240
+Nîmes,43.8374249,4.3600687,2025-10-01,Matin,ciel dégagé,18,25,241
+Nîmes,43.8374249,4.3600687,2025-10-01,Après-midi,ciel dégagé,21,25,242
+Nîmes,43.8374249,4.3600687,2025-10-02,Matin,ciel dégagé,18,25,243
+Nîmes,43.8374249,4.3600687,2025-10-02,Après-midi,ciel dégagé,22,25,244
+Nîmes,43.8374249,4.3600687,2025-10-03,Matin,couvert,17,25,245
+Nîmes,43.8374249,4.3600687,2025-10-03,Après-midi,couvert,22,25,246
+Nîmes,43.8374249,4.3600687,2025-10-04,Matin,nuageux,20,25,247
+Nîmes,43.8374249,4.3600687,2025-10-04,Après-midi,nuageux,26,25,248
+Nîmes,43.8374249,4.3600687,2025-10-05,Matin,peu nuageux,21,25,249
+Nîmes,43.8374249,4.3600687,2025-10-05,Après-midi,nuageux,23,25,250
+Aigues-Mortes,43.5661521,4.19154,2025-10-01,Matin,ciel dégagé,20,26,251
+Aigues-Mortes,43.5661521,4.19154,2025-10-01,Après-midi,ciel dégagé,22,26,252
+Aigues-Mortes,43.5661521,4.19154,2025-10-02,Matin,ciel dégagé,18,26,253
+Aigues-Mortes,43.5661521,4.19154,2025-10-02,Après-midi,ciel dégagé,20,26,254
+Aigues-Mortes,43.5661521,4.19154,2025-10-03,Matin,couvert,17,26,255
+Aigues-Mortes,43.5661521,4.19154,2025-10-03,Après-midi,couvert,18,26,256
+Aigues-Mortes,43.5661521,4.19154,2025-10-04,Matin,nuageux,20,26,257
+Aigues-Mortes,43.5661521,4.19154,2025-10-04,Après-midi,couvert,20,26,258
+Aigues-Mortes,43.5661521,4.19154,2025-10-05,Matin,partiellement nuageux,20,26,259
+Aigues-Mortes,43.5661521,4.19154,2025-10-05,Après-midi,nuageux,23,26,260
+Saintes-Maries-de-la-Mer,43.4515922,4.4277202,2025-10-01,Matin,ciel dégagé,19,27,261
+Saintes-Maries-de-la-Mer,43.4515922,4.4277202,2025-10-01,Après-midi,ciel dégagé,21,27,262
+Saintes-Maries-de-la-Mer,43.4515922,4.4277202,2025-10-02,Matin,peu nuageux,17,27,263
+Saintes-Maries-de-la-Mer,43.4515922,4.4277202,2025-10-02,Après-midi,ciel dégagé,20,27,264
+Saintes-Maries-de-la-Mer,43.4515922,4.4277202,2025-10-03,Matin,couvert,16,27,265
+Saintes-Maries-de-la-Mer,43.4515922,4.4277202,2025-10-03,Après-midi,couvert,18,27,266
+Saintes-Maries-de-la-Mer,43.4515922,4.4277202,2025-10-04,Matin,nuageux,19,27,267
+Saintes-Maries-de-la-Mer,43.4515922,4.4277202,2025-10-04,Après-midi,nuageux,19,27,268
+Saintes-Maries-de-la-Mer,43.4515922,4.4277202,2025-10-05,Matin,peu nuageux,20,27,269
+Saintes-Maries-de-la-Mer,43.4515922,4.4277202,2025-10-05,Après-midi,nuageux,22,27,270
+Collioure,42.52505,3.0831554,2025-10-01,Matin,ciel dégagé,20,28,271
+Collioure,42.52505,3.0831554,2025-10-01,Après-midi,ciel dégagé,23,28,272
+Collioure,42.52505,3.0831554,2025-10-02,Matin,ciel dégagé,20,28,273
+Collioure,42.52505,3.0831554,2025-10-02,Après-midi,ciel dégagé,19,28,274
+Collioure,42.52505,3.0831554,2025-10-03,Matin,couvert,19,28,275
+Collioure,42.52505,3.0831554,2025-10-03,Après-midi,couvert,24,28,276
+Collioure,42.52505,3.0831554,2025-10-04,Matin,couvert,23,28,277
+Collioure,42.52505,3.0831554,2025-10-04,Après-midi,couvert,23,28,278
+Collioure,42.52505,3.0831554,2025-10-05,Matin,partiellement nuageux,24,28,279
+Collioure,42.52505,3.0831554,2025-10-05,Après-midi,couvert,23,28,280
+Carcassonne,43.2130358,2.3491069,2025-10-01,Matin,ciel dégagé,16,29,281
+Carcassonne,43.2130358,2.3491069,2025-10-01,Après-midi,ciel dégagé,21,29,282
+Carcassonne,43.2130358,2.3491069,2025-10-02,Matin,ciel dégagé,19,29,283
+Carcassonne,43.2130358,2.3491069,2025-10-02,Après-midi,ciel dégagé,26,29,284
+Carcassonne,43.2130358,2.3491069,2025-10-03,Matin,couvert,18,29,285
+Carcassonne,43.2130358,2.3491069,2025-10-03,Après-midi,couvert,21,29,286
+Carcassonne,43.2130358,2.3491069,2025-10-04,Matin,couvert,21,29,287
+Carcassonne,43.2130358,2.3491069,2025-10-04,Après-midi,couvert,24,29,288
+Carcassonne,43.2130358,2.3491069,2025-10-05,Matin,couvert,19,29,289
+Carcassonne,43.2130358,2.3491069,2025-10-05,Après-midi,nuageux,22,29,290
+Larbont,42.9455368,1.4065544,2025-10-01,Matin,ciel dégagé,10,30,291
+Larbont,42.9455368,1.4065544,2025-10-01,Après-midi,peu nuageux,18,30,292
+Larbont,42.9455368,1.4065544,2025-10-02,Matin,ciel dégagé,16,30,293
+Larbont,42.9455368,1.4065544,2025-10-02,Après-midi,ciel dégagé,19,30,294
+Larbont,42.9455368,1.4065544,2025-10-03,Matin,couvert,15,30,295
+Larbont,42.9455368,1.4065544,2025-10-03,Après-midi,couvert,16,30,296
+Larbont,42.9455368,1.4065544,2025-10-04,Matin,couvert,17,30,297
+Larbont,42.9455368,1.4065544,2025-10-04,Après-midi,couvert,20,30,298
+Larbont,42.9455368,1.4065544,2025-10-05,Matin,couvert,15,30,299
+Larbont,42.9455368,1.4065544,2025-10-05,Après-midi,nuageux,17,30,300
+Toulouse,43.6044638,1.4442433,2025-10-01,Matin,ciel dégagé,15,31,301
+Toulouse,43.6044638,1.4442433,2025-10-01,Après-midi,peu nuageux,20,31,302
+Toulouse,43.6044638,1.4442433,2025-10-02,Matin,ciel dégagé,17,31,303
+Toulouse,43.6044638,1.4442433,2025-10-02,Après-midi,peu nuageux,23,31,304
+Toulouse,43.6044638,1.4442433,2025-10-03,Matin,couvert,17,31,305
+Toulouse,43.6044638,1.4442433,2025-10-03,Après-midi,couvert,21,31,306
+Toulouse,43.6044638,1.4442433,2025-10-04,Matin,couvert,20,31,307
+Toulouse,43.6044638,1.4442433,2025-10-04,Après-midi,couvert,24,31,308
+Toulouse,43.6044638,1.4442433,2025-10-05,Matin,couvert,17,31,309
+Toulouse,43.6044638,1.4442433,2025-10-05,Après-midi,couvert,19,31,310
+Montauban,44.0175835,1.3549991,2025-10-01,Matin,ciel dégagé,16,32,311
+Montauban,44.0175835,1.3549991,2025-10-01,Après-midi,partiellement nuageux,20,32,312
+Montauban,44.0175835,1.3549991,2025-10-02,Matin,ciel dégagé,16,32,313
+Montauban,44.0175835,1.3549991,2025-10-02,Après-midi,peu nuageux,22,32,314
+Montauban,44.0175835,1.3549991,2025-10-03,Matin,couvert,16,32,315
+Montauban,44.0175835,1.3549991,2025-10-03,Après-midi,couvert,19,32,316
+Montauban,44.0175835,1.3549991,2025-10-04,Matin,couvert,19,32,317
+Montauban,44.0175835,1.3549991,2025-10-04,Après-midi,couvert,22,32,318
+Montauban,44.0175835,1.3549991,2025-10-05,Matin,couvert,16,32,319
+Montauban,44.0175835,1.3549991,2025-10-05,Après-midi,couvert,22,32,320
+Biarritz,43.4832523,-1.5592776,2025-10-01,Matin,ciel dégagé,15,33,321
+Biarritz,43.4832523,-1.5592776,2025-10-01,Après-midi,nuageux,18,33,322
+Biarritz,43.4832523,-1.5592776,2025-10-02,Matin,peu nuageux,17,33,323
+Biarritz,43.4832523,-1.5592776,2025-10-02,Après-midi,couvert,23,33,324
+Biarritz,43.4832523,-1.5592776,2025-10-03,Matin,légère pluie,19,33,325
+Biarritz,43.4832523,-1.5592776,2025-10-03,Après-midi,couvert,19,33,326
+Biarritz,43.4832523,-1.5592776,2025-10-04,Matin,couvert,20,33,327
+Biarritz,43.4832523,-1.5592776,2025-10-04,Après-midi,couvert,21,33,328
+Biarritz,43.4832523,-1.5592776,2025-10-05,Matin,légère pluie,17,33,329
+Biarritz,43.4832523,-1.5592776,2025-10-05,Après-midi,couvert,19,33,330
+Le Limpou,43.4945144,-1.4736657,2025-10-01,Matin,ciel dégagé,15,34,331
+Le Limpou,43.4945144,-1.4736657,2025-10-01,Après-midi,nuageux,19,34,332
+Le Limpou,43.4945144,-1.4736657,2025-10-02,Matin,ciel dégagé,17,34,333
+Le Limpou,43.4945144,-1.4736657,2025-10-02,Après-midi,couvert,23,34,334
+Le Limpou,43.4945144,-1.4736657,2025-10-03,Matin,légère pluie,19,34,335
+Le Limpou,43.4945144,-1.4736657,2025-10-03,Après-midi,couvert,20,34,336
+Le Limpou,43.4945144,-1.4736657,2025-10-04,Matin,couvert,20,34,337
+Le Limpou,43.4945144,-1.4736657,2025-10-04,Après-midi,couvert,21,34,338
+Le Limpou,43.4945144,-1.4736657,2025-10-05,Matin,légère pluie,17,34,339
+Le Limpou,43.4945144,-1.4736657,2025-10-05,Après-midi,couvert,19,34,340
+La Rochelle,46.159732,-1.1515951,2025-10-01,Matin,ciel dégagé,14,35,341
+La Rochelle,46.159732,-1.1515951,2025-10-01,Après-midi,partiellement nuageux,19,35,342
+La Rochelle,46.159732,-1.1515951,2025-10-02,Matin,partiellement nuageux,16,35,343
+La Rochelle,46.159732,-1.1515951,2025-10-02,Après-midi,couvert,21,35,344
+La Rochelle,46.159732,-1.1515951,2025-10-03,Matin,couvert,19,35,345
+La Rochelle,46.159732,-1.1515951,2025-10-03,Après-midi,pluie modérée,19,35,346
+La Rochelle,46.159732,-1.1515951,2025-10-04,Matin,couvert,19,35,347
+La Rochelle,46.159732,-1.1515951,2025-10-04,Après-midi,couvert,19,35,348
+La Rochelle,46.159732,-1.1515951,2025-10-05,Matin,nuageux,13,35,349
+La Rochelle,46.159732,-1.1515951,2025-10-05,Après-midi,partiellement nuageux,18,35,350

@@ -5,8 +5,7 @@ import subprocess
 from collections import defaultdict
 import scrapy
 from scrapy.crawler import CrawlerProcess
-from scrapy_playwright.page import PageMethod  # ✅ import déplacé ici
-
+from scrapy_playwright.page import PageMethod  
 
 class BookingSpider(scrapy.Spider):
     name = "booking"
@@ -45,7 +44,7 @@ class BookingSpider(scrapy.Spider):
                     'playwright': True,
                     'playwright_page_methods': [
                         PageMethod('wait_for_selector', 'div[data-testid="property-card"]'),
-                        PageMethod('wait_for_timeout', 5000)  # ✅ attendre 5 secondes pour laisser charger
+                        PageMethod('wait_for_timeout', 5000)  # attendre 5 secondes pour laisser charger
                     ]
                 }
             )
@@ -105,16 +104,13 @@ class BookingSpider(scrapy.Spider):
 if __name__ == "__main__":
     from time import sleep
     VILLES = [
-        "Biarritz", "Bayonne", "La Rochelle"
+        "Mont Saint Michel", "Saint-Malo", "Bayeux", "Le Havre", "Rouen", "Paris", "Amiens", "Lille",
+        "Strasbourg", "Chateau du Haut Koenigsbourg", "Colmar", "Eguisheim", "Besancon", "Dijon",
+        "Annecy", "Grenoble", "Lyon", "Gorges du Verdon", "Bormes les Mimosas","Cassis",
+        "Marseille","Aix en Provence", "Avignon", "Uzes", "Nimes", "Aigues Mortes",
+        "Saintes Maries de la mer", "Collioure", "Carcassonne", "Foix", "Toulouse",
+        "Montauban", "Biarritz", "Bayonne", "La Rochelle"
     ]
-    # VILLES = [
-    #     "Mont Saint Michel", "Saint-Malo", "Bayeux", "Le Havre", "Rouen", "Paris", "Amiens", "Lille",
-    #     "Strasbourg", "Chateau du Haut Koenigsbourg", "Colmar", "Eguisheim", "Besancon", "Dijon",
-    #     "Annecy", "Grenoble", "Lyon", "Gorges du Verdon", "Bormes les Mimosas","Cassis",
-    #     "Marseille","Aix en Provence", "Avignon", "Uzes", "Nimes", "Aigues Mortes",
-    #     "Saintes Maries de la mer", "Collioure", "Carcassonne", "Foix", "Toulouse",
-    #     "Montauban", "Biarritz", "Bayonne", "La Rochelle"
-    # ]
     BATCH_SIZE = 2
     PAUSE_BATCH = 30  # secondes entre chaque batch
 
